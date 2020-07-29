@@ -1,0 +1,7 @@
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\HomeWorkLevelOneLessonTwo\bin\Debug\HomeWorkLevelOneLessonTwo.exe.config
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\HomeWorkLevelOneLessonTwo\bin\Debug\HomeWorkLevelOneLessonTwo.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\HomeWorkLevelOneLessonTwo\bin\Debug\HomeWorkLevelOneLessonTwo.pdb
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\HomeWorkLevelOneLessonTwo\obj\Debug\MinFromThird.csprojAssemblyReference.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\HomeWorkLevelOneLessonTwo\obj\Debug\MinFromThird.csproj.CoreCompileInputs.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\HomeWorkLevelOneLessonTwo\obj\Debug\HomeWorkLevelOneLessonTwo.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\HomeWorkLevelOneLessonTwo\obj\Debug\HomeWorkLevelOneLessonTwo.pdb
