@@ -1,0 +1,7 @@
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\SumNumbersApp\bin\Debug\SumNumbersApp.exe.config
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\SumNumbersApp\bin\Debug\SumNumbersApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\SumNumbersApp\bin\Debug\SumNumbersApp.pdb
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\SumNumbersApp\obj\Debug\SumNumbersApp.csprojAssemblyReference.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\SumNumbersApp\obj\Debug\SumNumbersApp.csproj.CoreCompileInputs.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\SumNumbersApp\obj\Debug\SumNumbersApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\SumNumbersApp\obj\Debug\SumNumbersApp.pdb
