@@ -1,0 +1,7 @@
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\CountNumbersInNumberApp\bin\Debug\CountNumbersInNumberApp.exe.config
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\CountNumbersInNumberApp\bin\Debug\CountNumbersInNumberApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\CountNumbersInNumberApp\bin\Debug\CountNumbersInNumberApp.pdb
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\CountNumbersInNumberApp\obj\Debug\CountNumbersInNumberApp.csprojAssemblyReference.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\CountNumbersInNumberApp\obj\Debug\CountNumbersInNumberApp.csproj.CoreCompileInputs.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\CountNumbersInNumberApp\obj\Debug\CountNumbersInNumberApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\CountNumbersInNumberApp\obj\Debug\CountNumbersInNumberApp.pdb

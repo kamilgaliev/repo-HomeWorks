@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinFromThird", "MinFromThird.csproj", "{31FFE4FC-6DF8-4E90-97A5-06F47A960812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountNumbersInNumberApp", "..\CountNumbersInNumberApp\CountNumbersInNumberApp.csproj", "{692CAA98-E7A0-4473-9F63-1AF925CF00E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31FFE4FC-6DF8-4E90-97A5-06F47A960812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FFE4FC-6DF8-4E90-97A5-06F47A960812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FFE4FC-6DF8-4E90-97A5-06F47A960812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FFE4FC-6DF8-4E90-97A5-06F47A960812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{692CAA98-E7A0-4473-9F63-1AF925CF00E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692CAA98-E7A0-4473-9F63-1AF925CF00E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692CAA98-E7A0-4473-9F63-1AF925CF00E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692CAA98-E7A0-4473-9F63-1AF925CF00E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD4B99B5-343D-456A-9B52-02051F663D27}
+	EndGlobalSection
+EndGlobal
