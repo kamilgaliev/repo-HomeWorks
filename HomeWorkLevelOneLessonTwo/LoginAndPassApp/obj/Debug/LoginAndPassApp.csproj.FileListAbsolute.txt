@@ -1,0 +1,7 @@
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\LoginAndPassApp\bin\Debug\LoginAndPassApp.exe.config
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\LoginAndPassApp\bin\Debug\LoginAndPassApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\LoginAndPassApp\bin\Debug\LoginAndPassApp.pdb
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\LoginAndPassApp\obj\Debug\LoginAndPassApp.csprojAssemblyReference.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\LoginAndPassApp\obj\Debug\LoginAndPassApp.csproj.CoreCompileInputs.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\LoginAndPassApp\obj\Debug\LoginAndPassApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonTwo\LoginAndPassApp\obj\Debug\LoginAndPassApp.pdb

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountNumbersInNumberApp", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumNumbersApp", "..\SumNumbersApp\SumNumbersApp.csproj", "{B7F30846-F62C-4F07-A58A-93839738D001}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginAndPassApp", "..\LoginAndPassApp\LoginAndPassApp.csproj", "{1A1D5B18-8ECE-4ACC-8B4C-0FB2F725312B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B7F30846-F62C-4F07-A58A-93839738D001}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7F30846-F62C-4F07-A58A-93839738D001}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7F30846-F62C-4F07-A58A-93839738D001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1D5B18-8ECE-4ACC-8B4C-0FB2F725312B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1D5B18-8ECE-4ACC-8B4C-0FB2F725312B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1D5B18-8ECE-4ACC-8B4C-0FB2F725312B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1D5B18-8ECE-4ACC-8B4C-0FB2F725312B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
