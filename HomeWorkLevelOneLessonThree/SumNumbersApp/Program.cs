@@ -14,6 +14,7 @@ namespace SumNumbersApp
         * С клавиатуры вводятся числа, пока не будет введен 0. 
         * Подсчитать сумму всех нечетных положительных чисел
         */
+        static string valuesFromConsole = "";
 
         static int GetValue(string message)
         {
@@ -40,6 +41,11 @@ namespace SumNumbersApp
             return sum;
         }
 
+        public static void Print(int sum)
+        {
+            Console.WriteLine($"\nВаши числа: {valuesFromConsole}\nСумма нечетных положительных чисел равна {sum}");
+        }
+
         static void Main(string[] args)
         {
             int MyNumber = -1;
@@ -52,11 +58,13 @@ namespace SumNumbersApp
 
                 
                 sum = SumNumbers(sum, MyNumber);
+
+                valuesFromConsole += $"{MyNumber}, ";
                 count++;
                 
             }
 
-            Console.WriteLine($"Сумма нечетных положительных чисел равна {sum}");
+            Print(sum);
             Console.ReadLine();
         }
     }
