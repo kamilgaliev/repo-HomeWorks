@@ -1,0 +1,7 @@
+C:\Users\Камиль\source\repos\HomeWorkLessonFour\CreateArrayApp\bin\Debug\CreateArrayApp.exe.config
+C:\Users\Камиль\source\repos\HomeWorkLessonFour\CreateArrayApp\bin\Debug\CreateArrayApp.exe
+C:\Users\Камиль\source\repos\HomeWorkLessonFour\CreateArrayApp\bin\Debug\CreateArrayApp.pdb
+C:\Users\Камиль\source\repos\HomeWorkLessonFour\CreateArrayApp\obj\Debug\CreateArrayApp.csprojAssemblyReference.cache
+C:\Users\Камиль\source\repos\HomeWorkLessonFour\CreateArrayApp\obj\Debug\CreateArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\Камиль\source\repos\HomeWorkLessonFour\CreateArrayApp\obj\Debug\CreateArrayApp.exe
+C:\Users\Камиль\source\repos\HomeWorkLessonFour\CreateArrayApp\obj\Debug\CreateArrayApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonFour\ClassMyArrayApp\bin\Debug\ClassMyArrayApp.exe.config
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonFour\ClassMyArrayApp\bin\Debug\ClassMyArrayApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonFour\ClassMyArrayApp\bin\Debug\ClassMyArrayApp.pdb
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonFour\ClassMyArrayApp\obj\Debug\ClassMyArrayApp.csprojAssemblyReference.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonFour\ClassMyArrayApp\obj\Debug\ClassMyArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonFour\ClassMyArrayApp\obj\Debug\ClassMyArrayApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonFour\ClassMyArrayApp\obj\Debug\ClassMyArrayApp.pdb

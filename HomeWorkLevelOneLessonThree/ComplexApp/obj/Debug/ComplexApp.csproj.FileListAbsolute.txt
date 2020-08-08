@@ -1,0 +1,7 @@
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonThree\ComplexApp\bin\Debug\ComplexApp.exe.config
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonThree\ComplexApp\bin\Debug\ComplexApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonThree\ComplexApp\bin\Debug\ComplexApp.pdb
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonThree\ComplexApp\obj\Debug\ComplexApp.csprojAssemblyReference.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonThree\ComplexApp\obj\Debug\ComplexApp.csproj.CoreCompileInputs.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonThree\ComplexApp\obj\Debug\ComplexApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLevelOneLessonThree\ComplexApp\obj\Debug\ComplexApp.pdb
