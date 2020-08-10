@@ -1,0 +1,7 @@
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonFive\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonFive\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonFive\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonFive\LoginApp\obj\Debug\LoginApp.csprojAssemblyReference.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonFive\LoginApp\obj\Debug\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonFive\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonFive\LoginApp\obj\Debug\LoginApp.pdb
