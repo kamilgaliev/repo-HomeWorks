@@ -1,0 +1,7 @@
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSix\PrintTableApp\bin\Debug\PrintTableApp.exe.config
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSix\PrintTableApp\bin\Debug\PrintTableApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSix\PrintTableApp\bin\Debug\PrintTableApp.pdb
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSix\PrintTableApp\obj\Debug\PrintTableApp.csprojAssemblyReference.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSix\PrintTableApp\obj\Debug\PrintTableApp.csproj.CoreCompileInputs.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSix\PrintTableApp\obj\Debug\PrintTableApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSix\PrintTableApp\obj\Debug\PrintTableApp.pdb
