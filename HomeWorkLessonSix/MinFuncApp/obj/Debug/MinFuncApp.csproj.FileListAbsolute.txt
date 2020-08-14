@@ -1,0 +1,7 @@
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSix\MinFuncApp\bin\Debug\MinFuncApp.exe.config
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSix\MinFuncApp\bin\Debug\MinFuncApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSix\MinFuncApp\bin\Debug\MinFuncApp.pdb
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSix\MinFuncApp\obj\Debug\MinFuncApp.csprojAssemblyReference.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSix\MinFuncApp\obj\Debug\MinFuncApp.csproj.CoreCompileInputs.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSix\MinFuncApp\obj\Debug\MinFuncApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSix\MinFuncApp\obj\Debug\MinFuncApp.pdb

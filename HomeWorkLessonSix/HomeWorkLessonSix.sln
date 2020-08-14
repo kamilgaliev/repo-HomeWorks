@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintTableApp", "PrintTableApp\PrintTableApp.csproj", "{6AEFD255-98FD-408C-8BA7-49BC98D69AAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinFuncApp", "MinFuncApp\MinFuncApp.csproj", "{14FF1B9B-52C5-48D2-A3E0-9D6F4470BDFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6AEFD255-98FD-408C-8BA7-49BC98D69AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AEFD255-98FD-408C-8BA7-49BC98D69AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AEFD255-98FD-408C-8BA7-49BC98D69AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14FF1B9B-52C5-48D2-A3E0-9D6F4470BDFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FF1B9B-52C5-48D2-A3E0-9D6F4470BDFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FF1B9B-52C5-48D2-A3E0-9D6F4470BDFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FF1B9B-52C5-48D2-A3E0-9D6F4470BDFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
