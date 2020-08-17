@@ -1,0 +1,11 @@
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSeven\WF_UdvoitelFormsApp\bin\Debug\WF_UdvoitelFormsApp.exe.config
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSeven\WF_UdvoitelFormsApp\bin\Debug\WF_UdvoitelFormsApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSeven\WF_UdvoitelFormsApp\bin\Debug\WF_UdvoitelFormsApp.pdb
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSeven\WF_UdvoitelFormsApp\obj\Debug\WF_UdvoitelFormsApp.csprojAssemblyReference.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSeven\WF_UdvoitelFormsApp\obj\Debug\WF_UdvoitelFormsApp.Form1.resources
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSeven\WF_UdvoitelFormsApp\obj\Debug\WF_UdvoitelFormsApp.Properties.Resources.resources
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSeven\WF_UdvoitelFormsApp\obj\Debug\WF_UdvoitelFormsApp.csproj.GenerateResource.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSeven\WF_UdvoitelFormsApp\obj\Debug\WF_UdvoitelFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSeven\WF_UdvoitelFormsApp\obj\Debug\WF_UdvoitelFormsApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSeven\WF_UdvoitelFormsApp\obj\Debug\WF_UdvoitelFormsApp.pdb
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSeven\WF_UdvoitelFormsApp\obj\Debug\WF_UdvoitelFormsApp.Form2.resources
