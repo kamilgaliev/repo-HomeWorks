@@ -1,0 +1,10 @@
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSeven\RandomNumberFormsApp\bin\Debug\RandomNumberFormsApp.exe.config
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSeven\RandomNumberFormsApp\bin\Debug\RandomNumberFormsApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSeven\RandomNumberFormsApp\bin\Debug\RandomNumberFormsApp.pdb
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSeven\RandomNumberFormsApp\obj\Debug\RandomNumberFormsApp.csprojAssemblyReference.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSeven\RandomNumberFormsApp\obj\Debug\RandomNumberFormsApp.Form1.resources
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSeven\RandomNumberFormsApp\obj\Debug\RandomNumberFormsApp.Properties.Resources.resources
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSeven\RandomNumberFormsApp\obj\Debug\RandomNumberFormsApp.csproj.GenerateResource.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSeven\RandomNumberFormsApp\obj\Debug\RandomNumberFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSeven\RandomNumberFormsApp\obj\Debug\RandomNumberFormsApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonSeven\RandomNumberFormsApp\obj\Debug\RandomNumberFormsApp.pdb

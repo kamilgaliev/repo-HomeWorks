@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_UdvoitelFormsApp", "WF_UdvoitelFormsApp\WF_UdvoitelFormsApp.csproj", "{F237AE26-61E8-458E-BAF2-91AE297D5C1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumberFormsApp", "RandomNumberFormsApp\RandomNumberFormsApp.csproj", "{C714A947-6D5C-4577-8463-8D89CB06E490}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F237AE26-61E8-458E-BAF2-91AE297D5C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F237AE26-61E8-458E-BAF2-91AE297D5C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F237AE26-61E8-458E-BAF2-91AE297D5C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C714A947-6D5C-4577-8463-8D89CB06E490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C714A947-6D5C-4577-8463-8D89CB06E490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C714A947-6D5C-4577-8463-8D89CB06E490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C714A947-6D5C-4577-8463-8D89CB06E490}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
