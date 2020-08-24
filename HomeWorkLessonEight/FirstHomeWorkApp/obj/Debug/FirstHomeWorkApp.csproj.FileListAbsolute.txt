@@ -1,0 +1,7 @@
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonEight\FirstHomeWorkApp\bin\Debug\FirstHomeWorkApp.exe.config
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonEight\FirstHomeWorkApp\bin\Debug\FirstHomeWorkApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonEight\FirstHomeWorkApp\bin\Debug\FirstHomeWorkApp.pdb
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonEight\FirstHomeWorkApp\obj\Debug\FirstHomeWorkApp.csprojAssemblyReference.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonEight\FirstHomeWorkApp\obj\Debug\FirstHomeWorkApp.csproj.CoreCompileInputs.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonEight\FirstHomeWorkApp\obj\Debug\FirstHomeWorkApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonEight\FirstHomeWorkApp\obj\Debug\FirstHomeWorkApp.pdb

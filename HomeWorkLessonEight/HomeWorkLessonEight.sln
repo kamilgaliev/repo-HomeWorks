@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstHomeWorkApp", "FirstHomeWorkApp\FirstHomeWorkApp.csproj", "{86314A64-43B7-4749-B0DF-E10996CF728F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondHomeWorkApp", "SecondHomeWorkApp\SecondHomeWorkApp.csproj", "{B511E925-2916-43A6-AC6F-2397344914CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86314A64-43B7-4749-B0DF-E10996CF728F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86314A64-43B7-4749-B0DF-E10996CF728F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86314A64-43B7-4749-B0DF-E10996CF728F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86314A64-43B7-4749-B0DF-E10996CF728F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B511E925-2916-43A6-AC6F-2397344914CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B511E925-2916-43A6-AC6F-2397344914CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B511E925-2916-43A6-AC6F-2397344914CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B511E925-2916-43A6-AC6F-2397344914CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EA695E9-FBCB-4BA1-BCC6-DA856673671B}
+	EndGlobalSection
+EndGlobal

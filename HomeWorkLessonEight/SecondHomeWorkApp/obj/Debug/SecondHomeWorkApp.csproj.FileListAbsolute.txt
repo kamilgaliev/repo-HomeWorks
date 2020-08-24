@@ -1,0 +1,10 @@
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonEight\SecondHomeWorkApp\bin\Debug\SecondHomeWorkApp.exe.config
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonEight\SecondHomeWorkApp\bin\Debug\SecondHomeWorkApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonEight\SecondHomeWorkApp\bin\Debug\SecondHomeWorkApp.pdb
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonEight\SecondHomeWorkApp\obj\Debug\SecondHomeWorkApp.csprojAssemblyReference.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonEight\SecondHomeWorkApp\obj\Debug\SecondHomeWorkApp.Form1.resources
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonEight\SecondHomeWorkApp\obj\Debug\SecondHomeWorkApp.Properties.Resources.resources
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonEight\SecondHomeWorkApp\obj\Debug\SecondHomeWorkApp.csproj.GenerateResource.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonEight\SecondHomeWorkApp\obj\Debug\SecondHomeWorkApp.csproj.CoreCompileInputs.cache
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonEight\SecondHomeWorkApp\obj\Debug\SecondHomeWorkApp.exe
+C:\Users\Камиль\Documents\geekbrains\C#\repo-HomeWorks\HomeWorkLessonEight\SecondHomeWorkApp\obj\Debug\SecondHomeWorkApp.pdb
